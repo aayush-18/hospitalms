@@ -7,9 +7,10 @@ Install the dependencies
 ```sh
 pip install -r requirements.txt
 ```
-### 3. Migrate Database
+### 3. Migrate Database and create Superuser
 ```sh
 python manage.py migrate
+python manage.py createsuperuser
 ```
 ### 4. Run the App
 Then run the following command
