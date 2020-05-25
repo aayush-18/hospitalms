@@ -7,15 +7,15 @@ Install the dependencies
 ```sh
 pip install -r requirements.txt
 ```
-###3. Migrate Database
+### 3. Migrate Database
 ```sh
 python manage.py migrate
 ```
-###4. Run the App
+### 4. Run the App
 Then run the following command
 
 ```py
 python manage.py runserver
 ```
-###5. Finish
+### 5. Finish
 Your App will serve in the localhost url.
