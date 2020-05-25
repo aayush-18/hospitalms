@@ -22,3 +22,6 @@ main {
 #body{
   padding-top: 20px;
 }
+.background {
+    background:red;
+}
