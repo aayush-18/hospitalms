@@ -3,4 +3,4 @@ Django==3.0.2
 django-storages==1.9.1
 mysql-connector==2.2.9
 mysqlclient==1.4.6
-urllib3==1.25.9
+urllib3==1.26.5
